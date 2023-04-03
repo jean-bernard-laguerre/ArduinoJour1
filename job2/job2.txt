@@ -1,0 +1,2 @@
+resistance = (voltage batterie - voltage LED) / courant désiré
+(5 - 2)/ .010 = 300
